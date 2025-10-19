@@ -57,7 +57,7 @@ A comprehensive, production-ready platform for creating and managing Virtual Mac
 ### Quick Setup
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/vm-platform.git
+git clone https://github.com/itriedcoding/vm-platform.git
 cd vm-platform
 
 # Make setup script executable
@@ -101,7 +101,7 @@ sudo systemctl reload nginx
 ## 🎯 Usage
 
 ### Web Interface
-1. Access the platform at `http://your-server-ip`
+1. Access the platform at `http://comingsoon...`
 2. Register a new account or login
 3. Create VMs using the dashboard
 4. Manage VMs through the web interface
@@ -313,4 +313,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Made with ❤️ for the virtualization community**
+**Made with ❤️ by itriedcoding**
